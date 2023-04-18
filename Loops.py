@@ -1,5 +1,6 @@
 """
-The provided code stub reads and integer, n, from STDIN. For all non-negative integers n, print n.
+Task
+The provided code stub reads and integer, n, from STDIN. For all non-negative integers n, print i².
 Example:
 The list of non-negative integers that are less than  is . Print the square of each number on a separate line.
 0
